@@ -8,6 +8,8 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter)
 ![vLLM](https://img.shields.io/badge/-vLLM-090909?style=for-the-badge&logo=cloudsmith)
 
+[Документация проекта на DeepWiki](https://deepwiki.com/DmitrySirakov/ML_Profagro)
+
 ## Описание
 
 ML-компонент обеспечивает промышленный деплой и inference моделей машинного обучения и LLM, необходимых для работы гибридного ретривера, реранкера и генерации ответов. Используется KServe для production-сценариев, интеграция с пайплайном Prefect и backend.
