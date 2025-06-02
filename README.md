@@ -1,5 +1,13 @@
 # ML_Profagro
 
+## 🛠️ Стек ML
+
+![Python](https://img.shields.io/badge/-Python_3.10+-090909?style=for-the-badge&logo=python)
+![KServe](https://img.shields.io/badge/-KServe-090909?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
+![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter)
+![vLLM](https://img.shields.io/badge/-vLLM-090909?style=for-the-badge&logo=cloudsmith)
+
 ## Описание
 
 ML-компонент обеспечивает промышленный деплой и inference моделей машинного обучения и LLM, необходимых для работы гибридного ретривера, реранкера и генерации ответов. Используется KServe для production-сценариев, интеграция с пайплайном Prefect и backend.
